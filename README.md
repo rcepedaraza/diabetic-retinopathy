@@ -7,7 +7,7 @@ Diabetic reinopathy affects up to 80 percent of those who have had diabetes for 
 The figure below shows an example of a healthy patient and a patient with _diabetic retinopathy_ as viewed by fundus photography.
 
 
-![diabetic retinopathy](https://www.researchgate.net/profile/Srinivasa-Rao-Avanapu/publication/282609747/figure/fig2/AS:281548759814145@1444137863086/Difference-between-Normal-Retina-and-Diabetic-Retinopathy.png)
+![diabetic retinopathy](https://th.bing.com/th/id/OIP.1JyDkw0ZfO0LThngI7emUAHaEp?pid=ImgDet&rs=1)
 
 
 ## 2. Problem Identification
